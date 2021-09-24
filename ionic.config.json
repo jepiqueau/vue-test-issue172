@@ -1,5 +1,5 @@
 {
-  "name": "test-issue172",
+  "name": "vue-test-issue172",
   "integrations": {
     "capacitor": {}
   },
